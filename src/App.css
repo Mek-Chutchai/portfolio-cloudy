@@ -294,20 +294,4 @@
   animation: cardItemPop 1s linear forwards;
   /* animation-delay: 1.2s; */
 }
-@keyframes cardItemPop {
-  0% {
-    scale: 1;
-  }
-  10% {
-    scale: 1.2;
-  }
-  20% {
-    scale: 0.9;
-  }
-  30% {
-    scale: 1.05;
-  }
-  50% {
-    scale: 1;
-  }
-}
+
